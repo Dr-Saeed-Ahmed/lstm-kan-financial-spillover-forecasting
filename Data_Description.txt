@@ -1,0 +1,29 @@
+A. AI & Technology (The Core Variables)
+THNQ (ROBO Global Artificial Intelligence ETF): Tracks companies leading the AI revolution, specifically focusing on computing, data, and infrastructure.
+
+ROBT (First Trust Nasdaq AI & Robotics ETF): Focuses on the "physical" side of AI—companies involved in robotics, automation, and the software that powers them.
+
+SRVR (Pacer Benchmark Data & Infrastructure Real Estate ETF): Tracks the "physical home" of AI: the data centers and cell towers required to process and store AI algorithms.
+
+B. Critical Minerals & Infrastructure
+REMX (VanEck Rare Earth/Strategic Metals ETF): Represents the supply chain for AI hardware. Rare earth metals are essential for the high-end chips and magnets used in AI servers.
+
+NCLR (VanEck Uranium+Nuclear Energy ETF): Tracks the nuclear energy sector, which is increasingly viewed as the "clean" baseload power source required to sustain 24/7 AI data centers.
+
+C. Clean Energy & Sustainability (The ESG Cluster)
+ICLN (iShares Global Clean Energy ETF): The primary benchmark for the renewable energy sector, including solar and wind power.
+
+GRNB (VanEck Green Bond ETF): Tracks the performance of the "Green Bond" market—debt specifically issued to fund climate and environmental projects.
+
+SUSA (iShares MSCI USA ESG Select ETF): A broad institutional benchmark of US companies with high Environmental, Social, and Governance ratings.
+
+CRBN (iShares MSCI ACWI Low Carbon Target ETF): Specifically focuses on companies with a low carbon footprint, representing the "Decarbonization" trend.
+
+DSI (iShares MSCI KLD 400 Social ETF): Represents the "Social and Governance" side of sustainability, excluding companies deemed unethical.
+
+D. Macroeconomic Control Variables
+WTI (West Texas Intermediate): The global benchmark for crude oil prices. In your study, this represents the "Dirty Energy" counter-balance to your clean energy variables.
+
+GLD (SPDR Gold Shares): Tracks the price of gold bullion. It serves as your "Safe Haven" proxy to see if AI or Clean Energy assets behave like risky stocks or stable stores of value.
+
+USD (US Dollar Index): Measures the strength of the US Dollar. It is a critical control for global liquidity and currency-driven price fluctuations.

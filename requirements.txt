@@ -1,0 +1,11 @@
+numpy
+pandas
+scipy
+statsmodels
+PyWavelets
+matplotlib
+seaborn
+scikit-learn
+shap
+torch
+pykan
